@@ -1,5 +1,11 @@
 # Consumer Complaint Text Classification Notebook
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/7a259fd9-9b7a-4f35-89dd-f4740c7336b4)
+
+![Image](https://github.com/user-attachments/assets/fefeb1b2-396f-4fbc-97e9-9f312d2d5e77)
+
 This notebook provides an end-to-end solution for classifying consumer complaints into four predefined categories:
 
 - **0:** Credit reporting, repair, or other  
