@@ -7,7 +7,6 @@ This repository contains my personal submission with solutions for all the tasks
 **Jayanth adhitya**
 
 Thank you for taking the time to review my work.  
-I hope you enjoy exploring my submission!
 
 ---
 
