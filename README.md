@@ -6,6 +6,9 @@ This repository contains my personal submission with solutions for all the tasks
 **Submitted by:**  
 **Jayanth adhitya**
 
+**Contact:**  
+[ jayanthadhitya@gmail.com ](mailto:jayanthadhitya@gmail.com)
+
 Thank you for taking the time to review my work.  
 
 ---
