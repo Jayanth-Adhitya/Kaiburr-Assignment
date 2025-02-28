@@ -7,6 +7,12 @@ This guide explains how to deploy the Task Manager API (from Task 1) to a Kubern
 
 ---
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/22fca908-d5ef-4113-9b0b-b07e03257304)
+
+![Image](https://github.com/user-attachments/assets/6c4814a2-28e0-489a-81a1-7a85664025f4)
+
 ## Prerequisites
 - Docker
 - Kubernetes cluster (e.g., Minikube, Docker Desktop, or cloud provider like GKE/EKS/AKS)
