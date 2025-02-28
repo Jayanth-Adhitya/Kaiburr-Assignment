@@ -7,6 +7,10 @@ This project includes a CI/CD pipeline for the Task Manager API (from Task 1). T
 
 ---
 
+### Screenshots
+
+![Image](https://github.com/user-attachments/assets/6ba80aac-d00d-48f1-9ca1-533230c99642)
+
 ## Pipeline Overview
 
 ### Tools Used
