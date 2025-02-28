@@ -15,7 +15,7 @@ A React-based frontend for the Task Manager API (from Task 1). This UI allows us
 
 ![Image](https://github.com/user-attachments/assets/f1c9249a-25e8-4adb-96fa-df3c3e116fd5)
 
-[![Video Title](https://github.com/user-attachments/assets/b4134a78-00d3-47f2-9593-69dc803690af)](https://vimeo.com/1061296362/a36d3be4d8?share=copy)
+https://github.com/user-attachments/assets/ae8f2cd0-68d3-465d-a305-3f92a68d8501
 
 
 ## Features
